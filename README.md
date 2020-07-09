@@ -8,6 +8,8 @@
 
 - 🌱 My role is DevOps 
 
+- ...
+
 ### Sponsor me
 
   - [Ko-Fi](https://ko-fi.com/fajarhide)
