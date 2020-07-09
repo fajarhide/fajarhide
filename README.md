@@ -1,6 +1,8 @@
 ### Hi there, I'm Fajar 👋
   
 - 🔭 I’m currently working at home
+
+- 😄 Live in [Bandung City](https://goo.gl/maps/D2j5M4RTDdSXwiNz8)
   
 - ⚡ Fun fact: My favorite food is Carbonara
 
