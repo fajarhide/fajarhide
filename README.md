@@ -1,16 +1,16 @@
 ### Hi there, I'm Fajar 👋
-<samp>
   
-- 🔭 I’m currently working on home
+- 🔭 I’m currently working at home
   
-- ⚡ Fun fact: My favorite food is Spaghetty and Carbonara
+- ⚡ Fun fact: My favorite food is Carbonara
 
-### Sponsor
+- 🌱 My role is DevOps 
+
+### Sponsor me
 
   - [Ko-Fi](https://ko-fi.com/fajarhide)
   - [Paypal.me](https://paypal.me/fajarhidayat)
   - [Sawaria](https://saweria.co/fajarhide)
-</samp>
 
 <!--
 **fajarhide/fajarhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
