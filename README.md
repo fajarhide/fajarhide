@@ -10,7 +10,7 @@
 
 - 👯 Momo
 
-- 📫 fajarhide@gmail.com
+- 📫 contact me at fajarhide@gmail.com
 
 ### Sponsor me
 
