@@ -5,7 +5,7 @@
   
 - ⚡ Fun fact: My favorite food is Spaghetty and Carbonara
 
-Sponsor
+### Sponsor
 
   - [Ko-Fi](https://ko-fi.com/fajarhide)
   - [Paypal.me](https://paypal.me/fajarhidayat)
