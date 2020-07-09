@@ -8,7 +8,9 @@
 
 - 🌱 My role is DevOps 
 
-- ...
+- 👯 Momo
+
+- 📫 fajarhide@gmail.com
 
 ### Sponsor me
 
