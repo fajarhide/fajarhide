@@ -4,11 +4,11 @@
 
 - 😄 Live in [Bandung City](https://goo.gl/maps/D2j5M4RTDdSXwiNz8)
   
-- ⚡ Fun fact: My favorite food is Carbonara
+- ⚡ Fun fact: I'm interest for WFH
 
 - 🌱 My role is DevOps 
 
-- 👯 Momo
+- 👯 Looking to collaborate on [Weekndlabs](https://github.com/weekndlabs)
 
 - 📫 Contact me at fajarhide@gmail.com
 
