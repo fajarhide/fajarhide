@@ -16,7 +16,7 @@
 
   - [Ko-Fi](https://ko-fi.com/fajarhide)
   - [Paypal.me](https://paypal.me/fajarhidayat)
-  - [Sawaria](https://saweria.co/fajarhide)
+  - [Saweria](https://saweria.co/fajarhide)
 
 <!--
 **fajarhide/fajarhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
