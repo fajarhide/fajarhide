@@ -1,16 +1,14 @@
-### Hi there, I'm Fajar 👋
+### Hi there, I'm Fajar (a.k.a _fajarhide_)👋
   
-- 🔭 I’m currently working at home
-
 - 😄 Live in [Bandung City](https://goo.gl/maps/D2j5M4RTDdSXwiNz8)
   
-- ⚡ Fun fact: I'm interest for WFH
+- ⚡ Fun fact: I'm interest for [remote work because current pandemic Covid-19](https://covid19.who.int/)
 
-- 🌱 My role is DevOps 
+- 🌱 My role is [DevOps](https://aws.amazon.com/devops/what-is-devops/) 
 
 - 👯 Looking to collaborate on [Weekndlabs](https://github.com/weekndlabs)
 
-- 📫 Contact me at fajarhide@gmail.com
+- 📫 Contact me at [fajarhide[at]gmail.com](mailto:fajarhide@gmail.com)
 
 ### Sponsor me
 
