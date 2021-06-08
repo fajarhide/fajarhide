@@ -2,7 +2,7 @@
   
 - 😄 Live in [Bandung City](https://goo.gl/maps/D2j5M4RTDdSXwiNz8) 
   
-- ⚡ Fun fact: I'm interest for [remote work because current pandemic Covid-19](https://covid19.who.int/)
+- ⚡ Fun fact: I'm interest for [working from anywhare](https://hbr.org/2020/11/our-work-from-anywhere-future)
 
 - 🌱 My role is [Site Reliability Engineer](https://sre.google/) 
 
