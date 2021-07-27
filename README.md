@@ -4,7 +4,7 @@
   
 - ⚡ Fun fact: I'm interest for [working from anywhare](https://hbr.org/2020/11/our-work-from-anywhere-future)
 
-- 🌱 My role is [Site Reliability Engineer](https://sre.google/) 
+- 🌱 My role is [DevOps Engineer](https://cloud.google.com/devops/) 
 
 - 📫 Contact me at [fajarhide[at]gmail.com](mailto:fajarhide@gmail.com)
 
