@@ -1,10 +1,6 @@
 ### Hi there, I'm Fajar (a.k.a _fajarhide_)👋
   
 - 😄 Live in [Bandung City](https://goo.gl/maps/D2j5M4RTDdSXwiNz8) 
-  
-- ⚡ Fun fact: I'm interest for [working from anywhare](https://hbr.org/2020/11/our-work-from-anywhere-future)
-
-- 🌱 My role is [DevOps Engineer](https://cloud.google.com/devops/) 
 
 - 📫 Contact me at [fajarhide[at]gmail.com](mailto:fajarhide@gmail.com)
 
