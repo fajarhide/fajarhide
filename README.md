@@ -1,5 +1,5 @@
 ## Hi there, I'm Fajar (a.k.a _fajarhide_)👋
-_make it work, make it right, make it fast. let's do it. make it better and simple_
+_make it work, make it right, make it fast. let's do it. make it better and simple life_
 ### Sponsor me
 
   - [Ko-Fi](https://ko-fi.com/fajarhide)
