@@ -1,4 +1,4 @@
-## Hi there, I'm Fajar (a.k.a _fajarhide_)👋
+## Hi there, I'm Fajar 👋
 _make it work, make it right, make it fast. let's do it. make it better and simple life_
 ### Sponsor me
 
