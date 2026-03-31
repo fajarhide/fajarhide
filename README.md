@@ -1,26 +1,74 @@
 ## Hi there, I'm Fajar 👋
-_make it work, make it right, make it fast. let's do it. make it better and simple life_
-### Sponsor me
 
-  - [Ko-Fi](https://ko-fi.com/fajarhide)
-  - [Paypal.me](https://paypal.me/fajarhidayat)
-  - [Saweria](https://saweria.co/fajarhide)
+**AI Tools Developer** building systems that make intelligence more usable.
 
-<!--
-**fajarhide/fajarhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _Make it work. Make it right. Make it fast._
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Build
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarhide)](https://github.com/fajarhide)
-<br />
-<br />
+I design and develop tools around:
+- AI agents & automation systems  
+- LLM infrastructure & orchestration  
+- Developer productivity tools powered by AI  
+
+Focused on making AI **practical, efficient, and simple to use**.
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:**  
+  Go (Golang), Rust, Python, TypeScript, JavaScript (Node.js), Bash  
+
+- **Core Areas:**  
+  - Backend & distributed systems  
+  - AI/LLM integration  
+  - CLI tools & automation  
+  - API & service architecture  
+
+---
+
+### ⚙️ Philosophy
+
+- Simplicity over complexity  
+- Performance matters  
+- Build tools people actually use  
+
+---
+
+### 🚀 Current Focus
+
+- AI agent systems  
+- Context management & orchestration  
+- Self-hosted AI infrastructure  
+
+---
+
+### 🤝 Open to Collaborate
+
+Interested in:
+- AI tooling & infra  
+- Developer tools  
+- Experimental AI systems  
+
+---
+
+### ☕ Support Me
+
+- [Ko-Fi](https://ko-fi.com/fajarhide)  
+- [PayPal](https://paypal.me/fajarhidayat)  
+- [Saweria](https://saweria.co/fajarhide)
+
+---
+
+### 📊 GitHub Stats
+
+[![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarhide&show_icons=true&hide_border=true)](https://github.com/fajarhide)
+
+---
+
+### 📫 Contact
+
+Let’s build something meaningful 🚀
