@@ -10,11 +10,14 @@ AI agents, LLM infrastructure, developer tools
 
 ---
 
-### Stack
+### Languages
 
-Go, Rust, Python, TypeScript, Node.js, Bash
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarhide&layout=compact&hide_border=true)](https://github.com/fajarhide)
+Go           ████████████████████████████ 40%
+Rust         ████████████████████░░░░░░░░ 25%
+Bash         ████████████████░░░░░░░░░░░░ 15%
+Python       ██████████░░░░░░░░░░░░░░░░░░ 10%
+TypeScript   ███████░░░░░░░░░░░░░░░░░░░░░ 7%
+Node.js      ███░░░░░░░░░░░░░░░░░░░░░░░░░ 3%
 
 ---
 
@@ -23,9 +26,3 @@ Go, Rust, Python, TypeScript, Node.js, Bash
 https://ko-fi.com/fajarhide  
 https://paypal.me/fajarhidayat  
 https://saweria.co/fajarhide  
-
----
-
-### Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarhide&show_icons=true&hide_border=true)](https://github.com/fajarhide)
