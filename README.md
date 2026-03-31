@@ -24,6 +24,8 @@ AI agents, LLM infrastructure, developer tools
 ### Support
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=fajarhide alt=fajarhide/> </p>
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-black?logo=github)](https://github.com/sponsors/fajarhide)
+
 https://ko-fi.com/fajarhide  
 https://paypal.me/fajarhidayat  
 https://saweria.co/fajarhide  
