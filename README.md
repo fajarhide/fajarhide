@@ -1,4 +1,4 @@
-## Hi, I'm Fajar
+## Hi, I'm Fajar 
 
 AI Tools Developer building practical, efficient systems.
 
@@ -22,6 +22,7 @@ AI agents, LLM infrastructure, developer tools
 ---
 
 ### Support
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=fajarhide alt=fajarhide/> </p>
 
 https://ko-fi.com/fajarhide  
 https://paypal.me/fajarhidayat  
