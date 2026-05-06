@@ -19,9 +19,9 @@ to make intelligence practical and usable.
 
 ## Current Projects
 
-- 🤖 **[OMNI](https://github.com/fajarhide/omni)** — Semantic signal engine for reduce LLM token usage by up to 90%  
-- 🔌 **[HeimSense](https://github.com/fajarhide/heimsense)** — AI adapter system unlock your claude code for any LLM  
-- ✍️ **[AI PR Describer](https://github.com/marketplace/actions/ai-pull-request-describer)** — AI-powered PR descriptions
+- **[OMNI](https://github.com/fajarhide/omni)** — Semantic signal engine for reduce LLM token usage by up to 90%  
+- **[HeimSense](https://github.com/fajarhide/heimsense)** — AI adapter system unlock your claude code for any LLM  
+- **[AI PR Describer](https://github.com/marketplace/actions/ai-pull-request-describer)** — AI-powered PR descriptions
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fajarhide&hide_border=true)](https://github.com/fajarhide)
 
