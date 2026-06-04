@@ -23,7 +23,7 @@ to make intelligence practical and usable.
 - **[HeimSense](https://github.com/fajarhide/heimsense)** — AI adapter system unlock your claude code for any LLM  
 - **[AI PR Describer](https://github.com/marketplace/actions/ai-pull-request-describer)** — AI-powered PR descriptions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fajarhide&hide_border=true)](https://github.com/fajarhide)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fajarhide&theme=dark&hide_border=true&short_numbers=true)](https://github.com/fajarhide)
 
 ## Connect
 
