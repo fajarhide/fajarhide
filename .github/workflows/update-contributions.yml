@@ -1,0 +1,40 @@
+name: Update contributions
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  # GitHub disables a scheduled workflow after 60 days without repository
+  # activity, and this workflow deliberately commits nothing during a quiet
+  # week. The push trigger means any hand-edit to the README also refreshes the
+  # block, so the section keeps working even if the cron is asleep. This does
+  # not loop: a push made with GITHUB_TOKEN creates no workflow run.
+  push:
+    branches: [master]
+    paths: [README.md, scripts/update-contributions.sh]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate the contributions block
+        env:
+          # The repo-scoped default token, deliberately. A personal token would
+          # let the search reach private repos, and the script writes into a
+          # public profile. `is:public` in the script is the other half of that.
+          GH_TOKEN: ${{ github.token }}
+        run: ./scripts/update-contributions.sh
+
+      - name: Commit if the counts moved
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh contributions"
+          git push
