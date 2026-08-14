@@ -3,6 +3,14 @@ name: Update contributions
 on:
   schedule:
     - cron: "17 3 * * 1"
+  # GitHub disables a scheduled workflow after 60 days without repository
+  # activity, and this workflow deliberately commits nothing during a quiet
+  # week. The push trigger means any hand-edit to the README also refreshes the
+  # block, so the section keeps working even if the cron is asleep. This does
+  # not loop: a push made with GITHUB_TOKEN creates no workflow run.
+  push:
+    branches: [master]
+    paths: [README.md, scripts/update-contributions.sh]
   workflow_dispatch:
 
 permissions:
