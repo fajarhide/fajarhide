@@ -1,0 +1,32 @@
+name: Update contributions
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate the contributions block
+        env:
+          # The repo-scoped default token, deliberately. A personal token would
+          # let the search reach private repos, and the script writes into a
+          # public profile. `is:public` in the script is the other half of that.
+          GH_TOKEN: ${{ github.token }}
+        run: ./scripts/update-contributions.sh
+
+      - name: Commit if the counts moved
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh contributions"
+          git push

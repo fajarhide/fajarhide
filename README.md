@@ -22,7 +22,16 @@ Tooling that sits between coding agents and the models they call: token accounti
 - **[HeimSense](https://github.com/fajarhide/heimsense)** ![stars](https://img.shields.io/github/stars/fajarhide/heimsense?style=flat-square&label=%E2%98%85&color=gray) Go. Runs Claude Code against any LLM provider by translating Anthropic's protocol to OpenAI's and back. Single binary, 20+ providers, no Python or Node runtime.
 - **[AI PR Describer](https://github.com/marketplace/actions/ai-pull-request-describer)** GitHub Action that writes the pull request description from the diff.
 
-Outside my own repos: merged PRs in [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama).
+## Elsewhere
+
+Merged pull requests in other people's repositories.
+
+<!--START_SECTION:contributions-->
+- [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) `7 merged`
+- [maps90/jean](https://github.com/maps90/jean) `3 merged`
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) `2 merged`
+- [maps90/portico](https://github.com/maps90/portico) `1 merged`
+<!--END_SECTION:contributions-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fajarhide&theme=dark&hide_border=true&short_numbers=true)](https://github.com/fajarhide)
 
