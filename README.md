@@ -20,6 +20,7 @@ Tooling that sits between coding agents and the models they call: token accounti
 
 - **[OMNI](https://github.com/fajarhide/omni)** ![stars](https://img.shields.io/github/stars/fajarhide/omni?style=flat-square&label=%E2%98%85&color=gray) Rust. Stops an agent paying to re-read output it has already seen, by turning repeated bytes into retrievable handles. 74.9% off 6,656 recorded commands, and every number replays on your own corpus.
 - **[HeimSense](https://github.com/fajarhide/heimsense)** ![stars](https://img.shields.io/github/stars/fajarhide/heimsense?style=flat-square&label=%E2%98%85&color=gray) Go. Runs Claude Code against any LLM provider by translating Anthropic's protocol to OpenAI's and back. Single binary, 20+ providers, no Python or Node runtime.
+- **[Selat](https://github.com/fajarhide/selat)** ![stars](https://img.shields.io/github/stars/fajarhide/selat?style=flat-square&label=%E2%98%85&color=gray) One credential for every tool your AI agent calls. An open source gateway that holds the OAuth, refreshes the tokens, and serves the same catalog over MCP and REST.
 - **[AI PR Describer](https://github.com/marketplace/actions/ai-pull-request-describer)** GitHub Action that writes the pull request description from the diff.
 
 ## Elsewhere
