@@ -28,10 +28,8 @@ Tooling that sits between coding agents and the models they call: token accounti
 Merged pull requests in other people's repositories.
 
 <!--START_SECTION:contributions-->
-- [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) `24 merged`
+- [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) `31 merged`
 - [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) `7 merged`
-- [maps90/jean](https://github.com/maps90/jean) `1 merged`
-- [maps90/portico](https://github.com/maps90/portico) `1 merged`
 <!--END_SECTION:contributions-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fajarhide&theme=dark&hide_border=true&short_numbers=true)](https://github.com/fajarhide)
