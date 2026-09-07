@@ -28,9 +28,8 @@ Tooling that sits between coding agents and the models they call: token accounti
 Merged pull requests in other people's repositories.
 
 <!--START_SECTION:contributions-->
-- [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) `39 merged`
-- [forgepod/forgepod](https://github.com/forgepod/forgepod) `17 merged`
-- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) `5 merged`
+- [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) `44 merged`
+- [forgepod/forgepod](https://github.com/forgepod/forgepod) `20 merged`
 <!--END_SECTION:contributions-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fajarhide&theme=dark&hide_border=true&short_numbers=true)](https://github.com/fajarhide)
