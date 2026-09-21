@@ -30,7 +30,7 @@ Merged pull requests in other people's repositories.
 <!--START_SECTION:contributions-->
 - [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) `54 merged`
 - [forgepod/forgepod](https://github.com/forgepod/forgepod) `20 merged`
-- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) `5 merged`
+- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) `7 merged`
 <!--END_SECTION:contributions-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fajarhide&theme=dark&hide_border=true&short_numbers=true)](https://github.com/fajarhide)
