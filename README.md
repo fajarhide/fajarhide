@@ -16,6 +16,10 @@ AI Tools Developer building practical, efficient systems.
 
 Tooling that sits between coding agents and the models they call: token accounting, context compression, protocol adapters. Mostly Rust and Go, mostly CLIs and hooks.
 
+## Maintainer
+
+- **[Nakama](https://github.com/ahmadrosid/nakama)** ![stars](https://img.shields.io/github/stars/ahmadrosid/nakama?style=flat-square&label=%E2%98%85&color=gray) Co-maintainer with [@ahmadrosid](https://github.com/ahmadrosid). The AI workspace where teams share agents, skills and automations that the whole company builds on.
+
 ## Current Projects
 
 - **[OMNI](https://github.com/fajarhide/omni)** ![stars](https://img.shields.io/github/stars/fajarhide/omni?style=flat-square&label=%E2%98%85&color=gray) Rust. Stops an agent paying to re-read output it has already seen, by turning repeated bytes into retrievable handles. 74.9% off 6,656 recorded commands, and every number replays on your own corpus.
