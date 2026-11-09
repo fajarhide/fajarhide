@@ -32,9 +32,10 @@ Tooling that sits between coding agents and the models they call: token accounti
 Merged pull requests in other people's repositories.
 
 <!--START_SECTION:contributions-->
-- [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) `91 merged`
-- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) `5 merged`
+- [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) `44 merged`
+- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) `6 merged`
 - [IndopenSource/awesome-indonesia](https://github.com/IndopenSource/awesome-indonesia) `3 merged`
+- [ipitio/backage](https://github.com/ipitio/backage) `1 merged`
 - [swegrowthid/builders](https://github.com/swegrowthid/builders) `1 merged`
 <!--END_SECTION:contributions-->
 
